@@ -1,6 +1,7 @@
-#include <string>
 #ifndef HAND_H
 #define HAND_H
+
+#include <string>
 
 using namespace std;
 
