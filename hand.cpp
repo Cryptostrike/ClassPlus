@@ -14,6 +14,7 @@ hand::hand()
     privatelime = 4; // Private int
 
     privatestring = "bob"; // Private string
+    
 }
 
 
@@ -28,7 +29,9 @@ int hand::get_privatelime(){
 
 // Public function to change the private variable outside the class
 void hand::give_privatelime(int gave_privatelime){
+    
     privatelime = gave_privatelime;
+    
 }
 
 
