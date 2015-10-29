@@ -11,7 +11,7 @@ class hand
     // Can be accessed anywhere inside and outside the class
     public:
 
-        // Declares hand construcor which sets the variables and actions
+        // Declares hand constructor which sets the variables and actions
         // to take when each new object is created
         hand();
 
